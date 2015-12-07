@@ -92,7 +92,7 @@
                 var script = document.createElement('script');
                 script.type = 'text/javascript';
                 script.async = true;
-                script.src = ('https:' === document.location.protocol ? 'https://' : 'http://' ) + 'd3accju1t3mngt.cloudfront.net/js/pa.min.js';
+                script.src = ('https:' === document.location.protocol ? 'https://' : 'https://' ) + 'd3accju1t3mngt.cloudfront.net/js/pa.min.js';
                 var firstScript = document.getElementsByTagName('script')[0];
                 firstScript.parentNode.insertBefore(script, firstScript);
                 service.bootstrapped = true;
