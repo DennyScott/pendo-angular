@@ -1,0 +1,24 @@
+{
+  "name": "pendo-angular",
+  "version": "1.0.0",
+  "description": "Pendo Angular module",
+  "main": "pendo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennyScott/pendo-angular.git"
+  },
+  "keywords": [
+    "Pendo",
+    "Angular",
+    "NPM"
+  ],
+  "author": "Pendo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DennyScott/pendo-angular/issues"
+  },
+  "homepage": "https://github.com/DennyScott/pendo-angular#readme"
+}
